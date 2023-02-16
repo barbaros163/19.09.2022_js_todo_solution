@@ -25,7 +25,7 @@ HTML, CSS, Javascript
 
 ## Demo
 
-https://barbaros163.github.io/19.09.2022_js_todo_solution/
+https://barbaros163.github.io/todo_solution_js/
 
 ## Feedback
 
